@@ -1,0 +1,3 @@
+cargo:rustc-link-search=C:\git\Real-Time-Control-System\firmware\target\debug\build\rp2040-pac-32f2a0d30be512e8\out
+cargo:rerun-if-changed=device.x
+cargo:rerun-if-changed=build.rs
